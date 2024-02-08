@@ -1,0 +1,18 @@
+do you hate your tech teacher?
+do you want to send the entire state into frenzy?
+just three easy steps to absolutely ANNIHILATE the NYCDOE's "robust network system"!
+
+when your teacher isnt looking:
+
+1. get into router (ssh/telnet -- if ssh doesnt work, then try telnet. if none work, back to drawing board)
+
+ssh admin@<routerip>
+OR
+use System Preferences > Network > ncpsp > Advanced > Port Scan > Enter in ip address of router and get port! (not tested)
+telnet <routerip> <port>
+
+when it asks you for a password, do NOT PUT IN SDE4t3am, instead put in 122D304001@RACKID30Q122. If the latter doesnt work, try SDE4t3am again. If none work, back to the drawing board.
+
+2. sudo shutdown -h now!!!
+
+3. profit
